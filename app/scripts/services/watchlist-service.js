@@ -1,5 +1,5 @@
 'use strict';
-angular.module('stockDogApp')
+angular.module('stockWatchApp')
 .service('WatchlistService', function WatchlistService() {
 // [1] Helper: Load watchlists from localStorage
 var loadModel = function () {
